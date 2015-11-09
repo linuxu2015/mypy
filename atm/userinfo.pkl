@@ -1,0 +1,8 @@
+(dp0
+S'xielan'
+p1
+I5000
+sS'xulibao'
+p2
+I15000
+s..
