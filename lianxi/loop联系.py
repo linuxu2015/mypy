@@ -26,5 +26,5 @@ while True:
                 print_num = int(raw_input('plz input again you want print num:'))
                 pass
             else:
-                print u'�Ѿ�����'
+                print u'已经过了'
                 print_num = int(raw_input('plz input again you want print num:'))
